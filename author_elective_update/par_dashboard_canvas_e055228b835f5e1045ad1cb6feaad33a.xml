@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="DELETE">
+        <dashboard display_value="NeedIt Applications">9c55264b835f5e1045ad1cb6feaad38e</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-29 09:46:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e055228b835f5e1045ad1cb6feaad33a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_canvas_e055228b835f5e1045ad1cb6feaad33a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-29 09:46:57</sys_updated_on>
+    </par_dashboard_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8a9f0ab61b75fd9052a243f4bd4bcb55</instance_id>
+        <instance_name>dev185211</instance_name>
+        <name>par_dashboard_canvas_e055228b835f5e1045ad1cb6feaad33a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="NeedIt Applications">9c55264b835f5e1045ad1cb6feaad38e</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-29 09:46:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e055228b835f5e1045ad1cb6feaad33a</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>par_dashboard_canvas_e055228b835f5e1045ad1cb6feaad33a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-29 09:46:57</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+        <payload_hash>-986504574</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b5ddf50b839b5e1045ad1cb6feaad398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-29 09:46:57</sys_created_on>
+        <sys_id>2c55228b835f5e1045ad1cb6feaad33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194b174ee100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-29 09:46:57</sys_updated_on>
+        <type>PAR Dashboard Page Canvas</type>
+        <update_guid>ec55228b375f5e10bf2b17223ecf603b</update_guid>
+        <update_guid_history>ec55228b375f5e10bf2b17223ecf603b:-986504574</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9aa52a8b835f5e1045ad1cb6feaad362</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-29 09:48:27</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_canvas">par_dashboard_canvas</sys_db_object>
+        <sys_id>06f7cc5f84854620839a3ae7f6ccdde4</sys_id>
+        <sys_metadata>e055228b835f5e1045ad1cb6feaad33a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>par_dashboard_canvas_e055228b835f5e1045ad1cb6feaad33a</sys_update_name>
+        <sys_update_version display_value="par_dashboard_canvas_e055228b835f5e1045ad1cb6feaad33a">2c55228b835f5e1045ad1cb6feaad33c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-29 09:48:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
